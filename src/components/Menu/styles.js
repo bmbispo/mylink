@@ -6,4 +6,4 @@ export const ButtonMenu = styled.TouchableOpacity`
     position: absolute;
     margin: 0 20px;
     justify-content: space-around;
-`;
+`; 
